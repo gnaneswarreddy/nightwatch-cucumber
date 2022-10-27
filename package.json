@@ -1,0 +1,19 @@
+{
+  "name": "combe-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geckodriver": "^3.0.1"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.7.0",
+    "chromedriver": "^107.0.0",
+    "nightwatch": "^2.4.1"
+  }
+}
